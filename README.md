@@ -13,7 +13,7 @@ This application provide the basic functionality of searching videos from youtub
 
 ## Storyboard
 
-![alt text](YoutubeApp/architecture.png)
+![alt text](https://github.com/thomas-guillaume/YoutubeApp/blob/master/README.md/architecture.png)
 
 ## Key Technologies
 
